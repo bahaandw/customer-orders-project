@@ -1,0 +1,11 @@
+{
+    "total_revenue": 2090.0,
+    "average_order_value": 418.0,
+    "top_customer": "Alice Smith",
+    "top_city": "London",
+    "best_selling_products": [
+        "Laptop",
+        "Mouse",
+        "Monitor"
+    ]
+}
