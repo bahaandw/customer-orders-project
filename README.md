@@ -23,7 +23,7 @@ A simple Python project that loads customer and order data, combines the dataset
 
 - `customers.json` - Customer information
 - `orders.csv` - Order information
-- Python script - Processes the data and generates the reports
+- `main.py` - Python script which processes the data and generates the reports
 
 ## How to Run
 
@@ -33,14 +33,12 @@ Make sure Python is installed, then run:
 python main.py
 ```
 
-Replace `main.py` with the name of your Python file if it is different.
 
 ## Technologies Used
 
 - Python
 - CSV
 - JSON
-- `collections.defaultdict`
 
 ## Purpose
 
